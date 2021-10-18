@@ -10,7 +10,7 @@ import edu.westga.cs3211.a2.model.GuessReport;
 import edu.westga.cs3211.a2.model.HiLowGame;
 
 class TestCheckGuess {
-	
+	/**
 	private class RandomFakeSpy extends Random {
 		public int callCount;
 		public int lastBoundProvided;
@@ -92,5 +92,6 @@ class TestCheckGuess {
 			()->{assertEquals(100, spy.lastBoundProvided, "checking last bound provided when generating random number");}
 		);
 	}
+**/
 
 }
